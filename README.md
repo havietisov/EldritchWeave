@@ -1,6 +1,6 @@
 # EldritchWeave
 
-Mission of EldritchWeave centers on exploring potential of combining existing knowledge in the field of AI and natural language processing to push LLM inference, training and capabilities further.
+Mission of EldritchWeave centers on exploring potential of combining existing knowledge in the field of AI and natural language processing to push LLM inference, training and general capabilities further.
 Moreover, the project is equally committed to pioneering novel methodologies and technologies, with promising ideas already in development and poised to contribute significantly to the field.
 While in its nascent stages, the project is poised to set a new benchmark in AI research and application, addressing both current limitations and future possibilities.
 
