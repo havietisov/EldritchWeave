@@ -11,7 +11,7 @@ These techniques, characterized by their innovative approaches and potential to 
  - Draft and verify : https://arxiv.org/abs/2309.08168
  - ResLORA : https://arxiv.org/abs/2402.18039
  - Big Bird sparse attention : https://arxiv.org/abs/2007.14062
- - Exploting persistence of importance hypothesis : https://arxiv.org/abs/2305.17118
+ - Exploiting persistence of importance hypothesis : https://arxiv.org/abs/2305.17118
  - LAyer-SElective Rank reduction (LASER) : https://arxiv.org/abs/2312.13558
  - PowerInfer : https://arxiv.org/abs/2312.12456
  - KV-quant : https://arxiv.org/abs/2401.18079
