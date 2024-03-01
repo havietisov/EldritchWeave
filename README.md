@@ -21,3 +21,5 @@ These techniques, characterized by their innovative approaches and potential to 
  - Fast LLM Inference without Auxiliary Models : https://arxiv.org/abs/2402.11131
  - Find and Replace transformers : https://openreview.net/forum?id=MGWsPGogLH
 
+Incorporating these cutting-edge techniques underscores EldritchWeave’s dedication to push the frontiers of AI and natural language processing.
+This project is a testament to the power and innovative rigor of open research in shaping the future of technology, driving us towards a horizon where AI's full potential can be realized.
